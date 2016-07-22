@@ -1,4 +1,4 @@
-package com.j1adong.neteasemusictransition;
+package com.j1adong.blurview;
 
 import android.content.res.Resources;
 import android.graphics.Bitmap;
